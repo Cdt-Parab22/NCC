@@ -16,13 +16,16 @@ height: 60px;
 margin-top: 0px;
 padding-left: 20px;
 }
-
-h2{
-    text-align: center;
+#MU{
     color: white;
-    color: white;
-    text-decoration: underline;
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
+.container2{
+    text-align: center;
+}
+
 .img2{
      position: relative;
      left: 750px;
